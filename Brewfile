@@ -5,7 +5,9 @@ tap "homebrew/core"
 brew "git"
 brew "mas"
 brew "nodebrew"
+brew "tig"
 brew "tmux"
+brew "tree"
 cask "adobe-creative-cloud"
 cask "adobe-creative-cloud-cleaner-tool"
 cask "alfred"
@@ -15,6 +17,7 @@ cask "cheatsheet"
 cask "chromium"
 cask "clipy"
 cask "cyberduck"
+cask "dash"
 cask "docker"
 cask "dropbox"
 cask "firefox"
@@ -34,6 +37,7 @@ cask "onyx"
 cask "optimal-layout"
 cask "prepros"
 cask "scroll-reverser"
+cask "sequel-pro"
 cask "sketchbook"
 cask "skitch"
 cask "skype"
@@ -51,6 +55,7 @@ mas "Amphetamine", id: 937984704
 mas "Any.do", id: 944960179
 mas "BrowseShot", id: 615916400
 mas "feedly", id: 865500966
+mas "iMage Tools", id: 493949693
 mas "Keynote", id: 409183694
 mas "LINE", id: 539883307
 mas "Microsoft To-Do", id: 1274495053
