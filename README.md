@@ -1,2 +1,2 @@
 # brewfile
-for Homebrew
+for Homebrew,mas-cli
