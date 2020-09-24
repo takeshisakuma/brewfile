@@ -8,6 +8,7 @@ tap "homebrew/core"
 brew "bat"
 brew "carthage"
 brew "exa"
+brew "gh"
 brew "ghq"
 brew "gibo"
 brew "git"
@@ -59,6 +60,7 @@ cask "macwinzipper"
 cask "magicavoxel"
 cask "marshallofsound-google-play-music-player"
 cask "ngrok"
+cask "notion"
 cask "onyx"
 cask "pg-commander"
 cask "postman"
@@ -117,6 +119,7 @@ mas "Trello", id: 1278508951
 mas "TweetDeck", id: 485812721
 mas "Twitter", id: 1482454543
 mas "Unsplash Wallpapers", id: 1284863847
+mas "WebP Converter", id: 1522368690
 mas "WebToLayers", id: 1458124010
 mas "Xcode", id: 497799835
 mas "XMind", id: 1327661892
