@@ -46,11 +46,14 @@ cask "discord"
 cask "docker"
 cask "docker-toolbox"
 cask "dropbox"
+cask "dynalist"
 cask "eqmac"
+cask "fantastical"
 cask "firefox"
 cask "firefox-nightly"
 cask "font-ricty-diminished"
 cask "font-source-han-code-jp"
+cask "free-ruler"
 cask "funter"
 cask "github"
 cask "google-chrome"
@@ -65,7 +68,6 @@ cask "iterm2"
 cask "krita"
 cask "macwinzipper"
 cask "magicavoxel"
-cask "marshallofsound-google-play-music-player"
 cask "ngrok"
 cask "notion"
 cask "onyx"
@@ -89,9 +91,11 @@ cask "the-unarchiver"
 cask "timemachineeditor"
 cask "tor-browser"
 cask "turbo-boost-switcher"
+cask "unity"
 cask "virtualbox"
 cask "visual-studio-code"
 cask "vlc"
+cask "webpquicklook"
 mas "1Password 7", id: 1333542190
 mas "Amphetamine", id: 937984704
 mas "Any.do", id: 944960179
@@ -122,11 +126,13 @@ mas "Pocket", id: 568494494
 mas "QaLL", id: 480452005
 mas "RunCat", id: 1429033973
 mas "Shazam", id: 897118787
+mas "Spark", id: 1176895641
 mas "The Unarchiver", id: 425424353
 mas "Todoist", id: 585829637
 mas "Trello", id: 1278508951
 mas "TweetDeck", id: 485812721
 mas "Twitter", id: 1482454543
+mas "Ulysses", id: 1225570693
 mas "Unsplash Wallpapers", id: 1284863847
 mas "WebP Converter", id: 1522368690
 mas "WebToLayers", id: 1458124010
