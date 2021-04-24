@@ -5,6 +5,7 @@ tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
+brew "python@3.9"
 brew "ansible"
 brew "bat"
 brew "carthage"
@@ -19,6 +20,7 @@ brew "mas"
 brew "nodebrew"
 brew "peco"
 brew "procs"
+brew "pyenv"
 brew "python@3.8"
 brew "ripgrep"
 brew "tig"
@@ -26,6 +28,7 @@ brew "tmux"
 brew "tree"
 brew "vim"
 brew "webp"
+cask "ableton-live-lite10"
 cask "adobe-creative-cloud"
 cask "adobe-creative-cloud-cleaner-tool"
 cask "alfred"
@@ -45,6 +48,7 @@ cask "diffmerge"
 cask "discord"
 cask "docker"
 cask "docker-toolbox"
+cask "drawio"
 cask "dropbox"
 cask "dynalist"
 cask "eqmac"
@@ -58,9 +62,11 @@ cask "funter"
 cask "github"
 cask "google-chrome"
 cask "google-chrome-canary"
+cask "google-drive"
 cask "google-drive-file-stream"
 cask "google-japanese-ime"
 cask "google-web-designer"
+cask "gyazo"
 cask "hyperswitch"
 cask "imagealpha"
 cask "imageoptim"
@@ -68,14 +74,19 @@ cask "iterm2"
 cask "krita"
 cask "macwinzipper"
 cask "magicavoxel"
+cask "microsoft-auto-update"
+cask "microsoft-edge"
 cask "ngrok"
 cask "notion"
+cask "ogdesign-eagle"
 cask "onyx"
 cask "pg-commander"
 cask "postman"
 cask "prepros"
+cask "proxyman"
 cask "qfinder-pro"
 cask "rectangle"
+cask "responsively"
 cask "scroll-reverser"
 cask "sequel-ace"
 cask "shupapan"
@@ -115,12 +126,19 @@ mas "Logoist 4", id: 1493005285
 mas "Magnet", id: 441258766
 mas "Messenger", id: 1480068668
 mas "Micro Sniff", id: 1504024265
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Outlook", id: 985367838
+mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft To Do", id: 1274495053
+mas "Microsoft Word", id: 462054704
 mas "Monosnap", id: 540348655
 mas "Motion", id: 434290957
 mas "Numbers", id: 409203825
+mas "OneDrive", id: 823766827
 mas "Pages", id: 409201541
 mas "Parallels Desktop", id: 1085114709
+mas "PicGIF Lite", id: 844918735
 mas "Pixea", id: 1507782672
 mas "Playgrounds", id: 1496833156
 mas "Pocket", id: 568494494
